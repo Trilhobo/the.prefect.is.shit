@@ -1,1 +1,1 @@
-test
+serializable

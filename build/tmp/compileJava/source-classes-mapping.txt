@@ -1,0 +1,6 @@
+serializable/InnerPerson.java
+ serializable.InnerPerson
+serializable/Person.java
+ serializable.Person
+serializable/SerializableTest.java
+ serializable.SerializableTest
